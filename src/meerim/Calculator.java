@@ -13,6 +13,7 @@ public class Calculator {
         double num1 = sc.nextDouble();
 
         double result = 0;
+
         boolean valid = true;
 
         switch(operator){
